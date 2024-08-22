@@ -24,6 +24,7 @@ main{
     height: auto;
     border-radius: 20px;
     padding: 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 4px 9px 0px;
 
 }
 .result{
@@ -39,6 +40,8 @@ main{
     padding: 20px;
     font-weight: bold;
     font-size: x-large;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 4px 6px 0px;
+
 }
 .calculator{
     margin-top: 20px;
@@ -53,6 +56,8 @@ display: flex;
     padding: 20px;
 
     font-weight: bold;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 4px 9px 0px;
+
 
 
 }
@@ -75,6 +80,7 @@ display: flex;
 
     align-items: center;
     justify-content: center;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 4px 9px 0px;
 }
 .row2,.row3,.row4,.row5,.row6{
     color:white;
@@ -91,6 +97,7 @@ display: flex;
     display: flex;
     flex-basis: 150px;
 }
+
 /*.row5 .section1{*/
 /*    width: 50%;*/
 /*}*/
